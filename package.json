@@ -1,0 +1,20 @@
+{
+  "name": "netbasic",
+  "version": "1.0.0",
+  "description": "Testing netlfiy",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/main.css ./dist/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bowster/netlify-gitify-bowtser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bowster/netlify-gitify-bowtser/issues"
+  },
+  "homepage": "https://github.com/Bowster/netlify-gitify-bowtser#readme"
+}
